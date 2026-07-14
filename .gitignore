@@ -55,3 +55,22 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Codex managed ignores
+node_modules/
+dist/
+coverage/
+.ui5/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account*.json
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
